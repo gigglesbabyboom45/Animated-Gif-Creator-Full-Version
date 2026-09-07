@@ -238,3 +238,6 @@ This repository serves as the official landing page for Animated GIF Creator. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Animated GIF Creator today!**
+
+---
+**Last updated:** 2026-09-07 17:34:42 UTC
